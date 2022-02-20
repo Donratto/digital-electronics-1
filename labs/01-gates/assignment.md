@@ -49,6 +49,6 @@ end architecture dataflow;
 
 
 
-___ Test: ___
+___Test:___
 
    ![A](images/DeMorgansLaws01.svg "Test test TEST")
