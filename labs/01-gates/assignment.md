@@ -1,3 +1,4 @@
+![bg](white)
 # Lab 1: Filip Kounicky 230597
 
 
