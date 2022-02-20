@@ -14,7 +14,7 @@ architecture dataflow of gates is
 begin
     f_org_o  <= (not(b_i) and a_i) or (not(c_i) and not(b_i));
     f_nand_o <= (((b_i nand b_i) nand a_i) nand ((c_i nand c_i) nand (b_i nand b_i)))
-    f_nor_o  <= (b_i nor (a_i nor(c_i nor c_i)));
+    f_nor_o  <= (b_i nor (a_i nor (c_i nor c_i)));
 end architecture dataflow;
 ```
 
@@ -52,7 +52,7 @@ architecture dataflow of gates is
 begin
     f_D1_L_o <= (a_i and b_i) or (a_i and c_i); -- Distributive Law n. 1 left side
     f_D1_R_o <= a_i and (b_i or c_i);           -- Distributive Law n. 1 right side
-    f_D2_L_o <= (a_i or b_i) and  (a_i or c_i); -- Distributive Law n. 2 left side
+    f_D2_L_o <= (a_i or b_i) and (a_i or c_i);  -- Distributive Law n. 2 left side
     f_D2_R_o <= a_i or (b_i and c_i);           -- Distributive Law n. 2 right side
 end architecture dataflow;
 ```
