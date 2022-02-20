@@ -1,4 +1,3 @@
-![bg](000000)
 # Lab 1: Filip Kounicky 230597
 
 
@@ -50,6 +49,6 @@ end architecture dataflow;
 
 
 
-3. Test:
+~~ Test: ~~
 
    ![A](images/DeMorgansLaws01.svg "Test test TEST")
