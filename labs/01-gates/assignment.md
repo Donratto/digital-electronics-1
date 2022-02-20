@@ -24,8 +24,8 @@ end architecture dataflow;
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | 0 | 0 | 1 | 1 | 1 |
 | 0 | 0 | 1 | 1 | 1 | 1 |
-| 0 | 1 | 1 | 0 | 0 | 0 |
 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 | 0 | 0 |
 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1 | 0 | 1 | 1 | 1 | 1 |
 | 1 | 1 | 0 | 0 | 0 | 0 |
@@ -57,7 +57,20 @@ begin
 end architecture dataflow;
 ```
 
-4. Screenshot with simulated time waveforms. 
+4. Complete table with logic functions' values:
+
+| **c** | **b** |**a** | **f(c,b,a)_D1_L_o** | **f(c,b,a)_D1_R_o** | **f(c,b,a)_D2_L_o** | **f(c,b,a)_D2_R_o** |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 1 | 1 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+5. Screenshot with simulated time waveforms. 
 
    ![EPWaves of Distributive laws](images/EPWaves02.png)
 
