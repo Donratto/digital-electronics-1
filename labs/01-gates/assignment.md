@@ -72,7 +72,7 @@ end architecture dataflow;
 
 5. Screenshot with simulated time waveforms. 
 
-   ![EPWaves of Distributive laws](images/EPWaves02.png)
+![EPWaves of Distributive laws](images/EPWaves02.png)
 
 
 
