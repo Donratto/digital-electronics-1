@@ -7,10 +7,10 @@
 
    ![Logic functions](images/equations01.png)
 
-2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
+2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions:
 
 ```vhdl
-architecture dataflow of demorgan is
+architecture dataflow of gates is
 begin
     f_org_o  <= (not(b_i) and a_i) or (not(c_i) and not(b_i));
     f_nand_o <= (((b_i nand b_i) nand a_i) nand ((c_i nand c_i) nand (b_i nand b_i)))
@@ -37,10 +37,40 @@ end architecture dataflow;
 
 ### Distributive laws
 
-1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
+1. First Distributive Law:
 
-   ![EPWaves of Distributive Laws](images/EPWaves02.png)
+   ![First Distributive Law](images/distributive01.png "Logic equation of First Distributive Law")
 
+2. Second Distributive Law:
+
+<<<<<<< Updated upstream
 2. Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85)
+=======
+   ![Second Distributive Law](images/distributive02.png "Logic equation of Second Distributive Law")
+
+3. Listing of VHDL architecture from design file (`design.vhd`) for both functions:
+
+```vhdl
+architecture dataflow of gates is
+begin
+    f_D1_L_o <= (a_i and b_i) or (a_i and c_i);
+    f_D1_R_o <= a_i and (b_i or c_i);
+    f_D2_L_o <= (a_i or b_i) and  (a_i or c_i);
+    f_D2_R_o <= a_i or (b_i and c_i);
+end architecture dataflow;
+```
+
+4. Screenshot with simulated time waveforms. 
+
+   ![EPWaves of Distributive Laws](images/EPWaves02.png)
+
+
+
+#### Link to EDA Playground example with De Morgan's laws and Distributive laws:
+
+   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85 "De Morgan's laws")
+
+   [https://www.edaplayground.com/x/D6u3](https://www.edaplayground.com/x/D6u3 "Distributive laws")
+>>>>>>> Stashed changes
