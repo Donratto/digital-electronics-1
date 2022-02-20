@@ -9,7 +9,7 @@ ___Emphasis___
 
 
 #### Links
-This was created using ![[GitHub]](https://github.com)
+This was created using !["[GitHub]"](https://github.com)
 
 Table
 
