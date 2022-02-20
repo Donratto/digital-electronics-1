@@ -43,4 +43,10 @@ end architecture dataflow;
 
 2. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85)
+   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85
+
+
+
+
+
+3. ![A](images/DeMorgansLaws01.svg)
