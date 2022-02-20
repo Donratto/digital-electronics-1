@@ -43,11 +43,6 @@ end architecture dataflow;
 
 2. Second Distributive Law:
 
-<<<<<<< Updated upstream
-2. Link to your public EDA Playground example:
-
-   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85)
-=======
    ![Second Distributive Law](images/distributive02.png "Logic equation of Second Distributive Law")
 
 3. Listing of VHDL architecture from design file (`design.vhd`) for both functions:
@@ -73,4 +68,3 @@ end architecture dataflow;
    [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85 "De Morgan's laws")
 
    [https://www.edaplayground.com/x/D6u3](https://www.edaplayground.com/x/D6u3 "Distributive laws")
->>>>>>> Stashed changes
