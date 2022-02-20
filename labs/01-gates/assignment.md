@@ -76,7 +76,7 @@ end architecture dataflow;
 
 
 
-#### Link to EDA Playground example with De Morgan's laws and Distributive laws:
+#### ___Link to EDA Playground example with De Morgan's laws and Distributive laws:___
 
    [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85 "De Morgan's laws")
 
