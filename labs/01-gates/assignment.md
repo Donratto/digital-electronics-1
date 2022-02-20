@@ -5,7 +5,7 @@
 
 1. Equations of all three versions of logic function f(c,b,a):
 
-   ![Logic functions](images/01equations.png)
+   ![Logic functions](images/equations01.png)
 
 2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
@@ -31,11 +31,15 @@ end architecture dataflow;
 | 1 | 1 | 0 | 0 | 0 | 0 |
 | 1 | 1 | 1 | 0 | 0 | 0 |
 
+4. Screenshot with simulated EPWaveforms to confirm correctness of NAND and NOR functions:
+
+![EPWaves of De Morgan's Laws](images/EPWaves01.png)
+
 ### Distributive laws
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![EPWaves of Distributive Laws](images/02EPWaves.png)
+   ![EPWaves of Distributive Laws](images/EPWaves02.png)
 
 2. Link to your public EDA Playground example:
 
