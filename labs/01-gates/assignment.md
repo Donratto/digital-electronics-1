@@ -33,17 +33,17 @@ end architecture dataflow;
 
 4. Screenshot with simulated EPWaveforms to confirm correctness of NAND and NOR functions:
 
-![EPWaves of De Morgan's Laws](images/EPWaves01.png)
+![EPWaves of De Morgan's laws](images/EPWaves01.png)
 
 ### Distributive laws
 
-1. First Distributive Law:
+1. First Distributive law:
 
-   ![First Distributive Law](images/distributive01.png "Logic equation of First Distributive Law")
+   ![First Distributive law](images/distributive01.png "Logic equation of First Distributive law")
 
-2. Second Distributive Law:
+2. Second Distributive law:
 
-   ![Second Distributive Law](images/distributive02.png "Logic equation of Second Distributive Law")
+   ![Second Distributive law](images/distributive02.png "Logic equation of Second Distributive law")
 
 3. Listing of VHDL architecture from design file (`design.vhd`) for both functions:
 
@@ -59,7 +59,7 @@ end architecture dataflow;
 
 4. Screenshot with simulated time waveforms. 
 
-   ![EPWaves of Distributive Laws](images/EPWaves02.png)
+   ![EPWaves of Distributive laws](images/EPWaves02.png)
 
 
 
