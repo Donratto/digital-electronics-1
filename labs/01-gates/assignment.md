@@ -41,9 +41,9 @@ end architecture dataflow;
 
    ![EPWaves of Distributive Laws](images/EPWaves02.png)
 
-2. Link to your public EDA Playground example:
+2. Link to EDA Playground example:
 
-   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85
+   [https://www.edaplayground.com/x/Fa85](https://www.edaplayground.com/x/Fa85 "Link to EDA Playground")
 
 
 
