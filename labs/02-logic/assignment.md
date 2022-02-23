@@ -6,15 +6,39 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![Greater_K-maps](./images/greater_k-map.jpg)
 
    Less than:
 
-   ![K-maps](images/kmap_empty.png)
+   ![Less_K-maps](./images/less_k-map.jpg)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+  > ![Logic functions](./images/functions.svg)
+
+   <kbd>
+   <img src=./images/functions.svg>
+</kdb>
+
+   ![Logic functions](./images/functions.svg#thumbnail)
+
+   img[src*="#thumbnail"] {
+      width: 150px;
+      height: 100px;
+   }
+
+   ![Logic functions](./images/functions.svg# fingernail bordered)
+
+   img[src~="fingernail"] {
+   width:150px;
+   height:100px;
+}
+img[src~="bordered"] {
+   border: 1px solid black;
+}
+
+   ![Logic functions](./images/functions.svg#thumbnail){:.thumbnail.bordered}
+
 
 ### 4-bit comparator
 
