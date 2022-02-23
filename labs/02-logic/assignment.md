@@ -14,31 +14,7 @@
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-  > ![Logic functions](./images/functions.svg)
-
-   <kbd>
-   <img src=./images/functions.svg>
-</kdb>
-
-   ![Logic functions](./images/functions.svg#thumbnail)
-
-   img[src*="#thumbnail"] {
-      width: 150px;
-      height: 100px;
-   }
-
-   ![Logic functions](./images/functions.svg# fingernail bordered)
-
-   img[src~="fingernail"] {
-   width:150px;
-   height:100px;
-}
-img[src~="bordered"] {
-   border: 1px solid black;
-}
-
-   ![Logic functions](./images/functions.svg#thumbnail){:.thumbnail.bordered}
-
+  ![Logic functions](./images/functions.svg)
 
 ### 4-bit comparator
 
@@ -52,16 +28,22 @@ img[src~="bordered"] {
         -- Report a note at the beginning of stimulus process
         report "Stimulus process started" severity note;
 
-        -- First test case
-        s_b <= "BCD_OF_YOUR_SECOND_LAST_ID_DIGIT"; -- Such as "0101" if ID = xxxx56
-        s_a <= "BCD_OF_YOUR_LAST_ID_DIGIT";        -- Such as "0110" if ID = xxxx56
-        wait for 100 ns;
-        -- Expected output
-        assert ((s_B_greater_A = 'WRITE_CORRECT_VALUE_HERE') and
-                (s_B_equals_A  = 'WRITE_CORRECT_VALUE_HERE') and
-                (s_B_less_A    = 'WRITE_CORRECT_VALUE_HERE'))
+         -- Test case for last two numbers of student ID
+        s_b <= "1001"; s_a <= "0111"; wait for 100 ns;
+        -- ... and its expected outputs
+        assert ((s_B_greater_A = '1') and
+                (s_B_equals_A  = '0') and
+                (s_B_less_A    = '0'))
         -- If false, then report an error
-        report "Input combination COMPLETE_THIS_TEXT FAILED" severity error;
+        -- If true, then do not report anything
+        report "Input combination 1001, 0111 FAILED" severity error;
+
+        -- Second test case – INTENTIONAL mistake
+        s_b <= "1111"; s_a <= "0000"; wait for 100 ns;
+        assert ((s_B_greater_A = '0') and
+                (s_B_equals_A  = '0') and
+                (s_B_less_A    = '1'))       -- B is clearly greater than A
+        report "Input combination 1111, 0000 FAILED" severity error;
 
         -- Report a note at the end of stimulus process
         report "Stimulus process finished" severity note;
