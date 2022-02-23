@@ -1,4 +1,4 @@
-###Preparation
+### Preparation
 1. Complete the truth table fo 2-bit _Identity comparator_ (B = A), and two _Magnitude comparators_ (B > A, B < A). Note that, such digital device has four inputs and three outputs/functions.
 
 
