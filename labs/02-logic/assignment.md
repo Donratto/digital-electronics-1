@@ -38,7 +38,7 @@
         -- If true, then do not report anything
         report "Input combination 1001, 0111 FAILED" severity error;
 
-        -- Second test case – INTENTIONAL mistake
+        -- Second test case  INTENTIONAL mistake
         s_b <= "1111"; s_a <= "0000"; wait for 100 ns;
         assert ((s_B_greater_A = '0') and
                 (s_B_equals_A  = '0') and
@@ -53,8 +53,11 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+    ![console screeenshot](./images/comparator_error.png "screenshot with intentional mistake")
 
-3. Link to your public EDA Playground example:
+#### _Link to  public EDA Playground examples:_
+   1. 2-bit comparator – [https://edaplayground.com/x/979V](https://edaplayground.com/x/979V "2-bit comparator")
+   
+   2. 4-bit comparator – [https://edaplayground.com/x/sjBe](https://edaplayground.com/x/sjBe "4-bit comparator")
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+
