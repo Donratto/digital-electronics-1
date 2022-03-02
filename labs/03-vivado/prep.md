@@ -24,7 +24,7 @@
 2. FPGA pins of LEDs
 
 | **switch** | **Resistor - 330** | **FPGA pin** | 
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | LED0 | R33 | H17 |
 | LED1 | R34 | K15 |
 | LED2 | R36 | J13 |
@@ -44,4 +44,6 @@
 
 ![im](./images/im1.png
 )
+   
+
    
