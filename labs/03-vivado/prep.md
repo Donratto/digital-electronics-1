@@ -42,8 +42,8 @@
 | LED14 | R72 | V12 |
 | LED15 | R74 | V11 |
 
-![im](./images/im1.png
-)
+![im](./images/n4r.png)
+
    
 
    

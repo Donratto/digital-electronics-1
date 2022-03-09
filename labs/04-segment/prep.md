@@ -1,4 +1,6 @@
-![im](https://github.com/Donratto/digital-electronics-1/blob/main/labs/03-vivado/images/im1.png)
+![im](/labs/03-vivado/images/n4r.png)
+
+
 
 
 Complete the decoder truth table for **common anode** 7-segment display.
