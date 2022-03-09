@@ -1,4 +1,4 @@
-###Preparation
+### Preparation
 
 1. Schematic of Nexys A7 board with 7-segment display
 >![im](/labs/03-vivado/images/n4r.png)
