@@ -65,8 +65,8 @@ begin
           g_MAX => 25000000
       )
       port map(
-          clk   => -- WRITE YOUR CODE HERE
-          reset => -- WRITE YOUR CODE HERE
+          clk   => CLK100MHZ,
+          reset => BTNC,
           ce_o  => s_en
       );
 
@@ -74,10 +74,14 @@ begin
   -- Instance (copy) of cnt_up_down entity
   bin_cnt0 : entity work.cnt_up_down
      generic map(
-          -- WRITE YOUR CODE HERE
+          g_CNT_WIDTH => 4
       )
       port map(
-          -- WRITE YOUR CODE HERE
+          en_i => s_en,
+          cnt_up_i => SW,
+          clk => CLK100MHZ,
+          reset => BTNC,
+          cnt_o => s_cnt
       );
 
   --------------------------------------------------------------------
