@@ -10,12 +10,12 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
     width="516.101181102"
-    height="290.901181102"
-    viewBox="0, 0, 516.101181102, 290.901181102"
+    height="290.901181103"
+    viewBox="0, 0, 516.101181102, 290.901181103"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_CE19CF42"/>
+       id="defs_82437D62"/>
    <metadata
        id="metadata7">
       <rdf:RDF>
@@ -37,7 +37,7 @@
           font-size="7"
           font-weight="normal"
           font-style="normal">
-         <tspan x="5.459728331078" y="143.592322835">CLK100MHZ</tspan>
+         <tspan x="5.459728331075" y="143.592322835">CLK100MHZ</tspan>
       </text>
       <text
           id="5A10DBF8"
@@ -60,7 +60,7 @@
       <polyline
           style="fill:none;stroke-width:0.5"
           id="C7AE2881"
-          points="83.2677165354,85.2143700787 90.3543307094,90.529330708 83.2677165354,95.8442913382"/>
+          points="83.2677165354,85.214370079 90.3543307093,90.529330708 83.2677165354,95.844291338"/>
       <text
           id="D7AE2881"
           style="stroke:none"
@@ -68,7 +68,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="88.3166984498" y="44.6080708661">g_MAX = 25 000 000</tspan>
+         <tspan x="88.3166984498" y="44.608070866">g_MAX = 25 000 000</tspan>
       </text>
       <text
           id="F7AE2881"
@@ -77,7 +77,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="95.3543307087" y="93.2143700787">clk</tspan>
+         <tspan x="95.3543307086" y="93.214370079">clk</tspan>
       </text>
       <text
           id="08AE2881"
@@ -86,13 +86,13 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="88.2677165354" y="71.9545275591">rst</tspan>
+         <tspan x="88.2677165354" y="71.954527559">rst</tspan>
       </text>
       <rect
           style="fill:none"
           id="D7B26B81"
           x="83.2677165354"
-          y="35.6080708661"
+          y="35.608070866"
           width="85.0393700787"
           height="63.7795275591"/>
       <text
@@ -102,7 +102,7 @@
           font-size="7"
           font-weight="normal"
           font-style="normal">
-         <tspan x="105.553026575" y="31.9781496063">clock_enable</tspan>
+         <tspan x="105.553026575" y="31.978149606">clock_enable</tspan>
       </text>
       <text
           id="F7D52C91"
@@ -111,7 +111,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="146.259086613" y="93.2143700787">ce_o</tspan>
+         <tspan x="146.259086612" y="93.214370079">ce_o</tspan>
       </text>
       <polyline
           style="fill:none;stroke-width:0.5"
@@ -133,7 +133,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="95.3543307087" y="234.946653543">clk</tspan>
+         <tspan x="95.3543307086" y="234.946653543">clk</tspan>
       </text>
       <text
           id="ACFA72A1"
@@ -167,7 +167,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="146.259086613" y="234.946653543">ce_o</tspan>
+         <tspan x="146.259086612" y="234.946653543">ce_o</tspan>
       </text>
       <text
           id="45717EA1"
@@ -176,12 +176,12 @@
           font-size="7"
           font-weight="normal"
           font-style="normal">
-         <tspan x="240.003871647" y="31.9781496063">cnt_up_down</tspan>
+         <tspan x="240.003871648" y="31.978149606">cnt_up_down</tspan>
       </text>
       <polyline
           style="fill:none;stroke-width:0.5"
           id="E7C1FFA1"
-          points="217.913385827,106.474212598 225.000000001,111.789173229 217.913385827,117.104133859"/>
+          points="217.913385827,106.474212599 225.000000001,111.789173229 217.913385827,117.104133859"/>
       <text
           id="08C1FFA1"
           style="stroke:none"
@@ -189,7 +189,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="226.097133366" y="44.6080708661">g_CNT_WIDTH = 4</tspan>
+         <tspan x="226.097133366" y="44.608070866">g_CNT_WIDTH = 4</tspan>
       </text>
       <text
           id="18C1FFA1"
@@ -198,7 +198,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="230" y="114.474212598">clk</tspan>
+         <tspan x="230" y="114.474212599">clk</tspan>
       </text>
       <text
           id="28C1FFA1"
@@ -207,13 +207,13 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="222.913385827" y="93.2143700787">rst</tspan>
+         <tspan x="222.913385827" y="93.214370079">rst</tspan>
       </text>
       <rect
           style="fill:none"
           id="38C1FFA1"
           x="217.913385827"
-          y="35.6080708661"
+          y="35.608070866"
           width="85.0393700787"
           height="102.755905512"/>
       <text
@@ -223,7 +223,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="278.248755904" y="114.474212598">cnt_o</tspan>
+         <tspan x="278.248755904" y="114.474212599">cnt_o</tspan>
       </text>
       <text
           id="587583B1"
@@ -232,7 +232,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="222.913385827" y="71.9545275591">cnt_up_i</tspan>
+         <tspan x="222.913385827" y="71.954527559">en_i</tspan>
       </text>
       <text
           id="2D8458B1"
@@ -241,7 +241,7 @@
           font-size="7"
           font-weight="normal"
           font-style="normal">
-         <tspan x="240.003871647" y="173.710433071">cnt_up_down</tspan>
+         <tspan x="240.003871648" y="173.710433071">cnt_up_down</tspan>
       </text>
       <polyline
           style="fill:none;stroke-width:0.5"
@@ -297,13 +297,13 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="222.913385827" y="213.686811024">cnt_up_i</tspan>
+         <tspan x="222.913385827" y="273.923031496">cnt_up_i</tspan>
       </text>
       <rect
           style="fill:none"
           id="F253BBB1"
           x="352.559055118"
-          y="35.6080708661"
+          y="35.608070866"
           width="85.0393700782"
           height="28.3464566929"/>
       <text
@@ -313,7 +313,7 @@
           font-size="7"
           font-weight="normal"
           font-style="normal">
-         <tspan x="380.096074142" y="31.9781496063">hex_7seg</tspan>
+         <tspan x="380.096074141" y="31.978149606">hex_7seg</tspan>
       </text>
       <text
           id="1353BBB1"
@@ -322,7 +322,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="411.110425195" y="50.6946850394">seg_o</tspan>
+         <tspan x="411.110425194" y="50.69468504">seg_o</tspan>
       </text>
       <text
           id="2F41BDB1"
@@ -331,20 +331,20 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="357.559055118" y="50.6946850394">hex_i</tspan>
+         <tspan x="357.559055118" y="50.69468504">hex_i</tspan>
       </text>
       <path
           style="fill:none"
           id="8CD9A0D1"
-          d="M83.2677165354,90.5293307087 L62.0078740157,90.5293307087 L62.0078740157,106.474212598"/>
+          d="M83.2677165354,90.529330709 L62.0078740157,90.529330709 L62.0078740157,106.474212599"/>
       <path
           style="fill:none"
           id="3D4741D1"
-          d="M217.913385827,111.789173228 L207.283464567,111.789173228 L207.283464567,120.647440945"/>
+          d="M217.913385827,111.789173229 L207.283464567,111.789173229 L207.283464567,120.647440945"/>
       <path
           style="fill:none"
           id="C0D592D1"
-          d="M62.0078740157,106.474212598 L62.0078740157,120.647440945 L207.283464567,120.647440945"/>
+          d="M62.0078740157,106.474212599 L62.0078740157,120.647440945 L207.283464567,120.647440945"/>
       <path
           style="fill:none"
           id="E12B33D1"
@@ -360,7 +360,7 @@
       <path
           style="fill:none"
           id="E39FC6D1"
-          d="M62.0078740157,248.206496063 L62.0078740157,262.379724409 L207.283464567,262.379724409"/>
+          d="M62.0078740157,248.206496063 L62.0078740157,262.37972441 L207.283464567,262.37972441"/>
       <path
           style="fill:none"
           id="B68048D1"
@@ -368,7 +368,7 @@
       <path
           style="fill:none"
           id="1C3689D1"
-          d="M5.314960629921,159.623818898 L72.6377952756,159.623818898 L72.6377952756,71.0411417323 L83.2677165354,71.0411417323"/>
+          d="M5.314960629921,159.623818898 L72.6377952756,159.623818898 L72.6377952756,71.041141732 L83.2677165354,71.041141732"/>
       <path
           style="fill:none"
           id="29C19AD1"
@@ -380,11 +380,11 @@
       <path
           style="fill:none"
           id="61AE6ED1"
-          d="M72.6377952756,212.773425197 L72.6377952756,251.74980315 L193.11023622,251.74980315"/>
+          d="M72.6377952756,212.773425197 L72.6377952756,251.74980315 L193.110236221,251.74980315"/>
       <path
           style="fill:none"
           id="67A1DED1"
-          d="M193.11023622,251.74980315 L196.653543307,251.74980315 L196.653543307,234.033267717 L217.913385827,234.033267717"/>
+          d="M193.110236221,251.74980315 L196.653543307,251.74980315 L196.653543307,234.033267717 L217.913385827,234.033267717"/>
       <path
           style="fill:none"
           id="489F73E1"
@@ -392,11 +392,11 @@
       <path
           style="fill:none"
           id="3E8224E1"
-          d="M168.307086614,92.300984252 L186.023622047,92.300984252 L186.023622047,71.0411417323 L217.913385827,71.0411417323"/>
+          d="M168.307086614,92.300984252 L186.023622047,92.300984252 L186.023622047,71.041141732 L217.913385827,71.041141732"/>
       <path
           style="fill:none"
           id="338B5DE1"
-          d="M302.952755906,113.560826772 L327.755905512,113.560826772 L327.755905512,49.7812992126 L352.559055118,49.7812992126"/>
+          d="M302.952755906,113.560826772 L327.755905512,113.560826772 L327.755905512,49.781299213 L352.559055118,49.781299213"/>
       <path
           style="fill:none"
           id="F15E13F1"
@@ -404,11 +404,11 @@
       <path
           style="fill:none"
           id="C2AA54F1"
-          d="M437.598425197,49.7812992126 L458.858267717,49.7812992126 L458.858267717,35.6080708666"/>
+          d="M437.598425197,49.781299213 L458.858267717,49.781299213 L458.858267717,35.608070867"/>
       <path
           style="fill:none"
           id="304494F1"
-          d="M458.858267717,35.6080708656 L515.551181102,35.6080708656"/>
+          d="M458.858267717,35.608070866 L515.551181102,35.608070866"/>
       <text
           id="EBACE8F1"
           style="stroke:none"
@@ -416,7 +416,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="478.512041708" y="33.9781496063">CA – CG</tspan>
+         <tspan x="473.197081078" y="33.978149606">CA – CG</tspan>
       </text>
       <text
           id="3E193BF1"
@@ -425,7 +425,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="472.517562746" y="175.710433071">LED(15:0)</tspan>
+         <tspan x="470.745909203" y="175.710433071">LED(15:0)</tspan>
       </text>
       <line
           style="fill:none"
@@ -433,14 +433,14 @@
           x1="320.669291339"
           y1="248.206496063"
           x2="313.582677165"
-          y2="262.379724409"/>
+          y2="262.37972441"/>
       <line
           style="fill:none"
           id="3F342102"
           x1="451.771653544"
-          y1="42.6946850394"
+          y1="42.69468504"
           x2="444.68503937"
-          y2="56.8679133864"/>
+          y2="56.867913387"/>
       <text
           id="C8D6F102"
           style="stroke:none"
@@ -448,7 +448,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="446.141732283" y="41.0647637795">7</tspan>
+         <tspan x="446.141732284" y="41.06476378">7</tspan>
       </text>
       <text
           id="3833F302"
@@ -463,9 +463,9 @@
           style="fill:none"
           id="9089F602"
           x1="317.125984253"
-          y1="106.474212598"
+          y1="106.474212599"
           x2="310.039370079"
-          y2="120.647440945"/>
+          y2="120.647440946"/>
       <text
           id="B089F602"
           style="stroke:none"
@@ -482,7 +482,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="316.648314468" y="44.6080708661">s_cnt</tspan>
+         <tspan x="316.648314468" y="44.608070866">s_cnt</tspan>
       </text>
       <text
           id="46309B02"
@@ -491,7 +491,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="179.34605684" y="65.8679133858">s_en</tspan>
+         <tspan x="179.34605684" y="65.867913386">s_en</tspan>
       </text>
       <text
           id="750C2E02"
@@ -509,7 +509,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="182.889363927" y="207.60019685">s_en</tspan>
+         <tspan x="182.889363926" y="207.600196851">s_en</tspan>
       </text>
       <text
           id="9B95C612"
@@ -518,7 +518,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="222.913385827" y="273.923031496">rst</tspan>
+         <tspan x="222.913385827" y="213.686811024">en_i</tspan>
       </text>
       <path
           style="fill:none"
@@ -535,7 +535,7 @@
           font-size="8"
           font-weight="normal"
           font-style="italic">
-         <tspan x="222.913385827" y="132.190748031">rst</tspan>
+         <tspan x="222.913385827" y="132.190748032">cnt_up_i</tspan>
       </text>
       <path
           style="fill:none"
@@ -563,7 +563,7 @@
       <circle
           id="564D2522"
           cx="72.6377952756"
-          cy="159.623818898"
+          cy="159.623818897"
           r="1.771653543307"/>
       <circle
           id="73296522"
@@ -604,9 +604,9 @@
           style="fill:none"
           id="14BA3632"
           x1="182.480314961"
-          y1="85.2143700787"
+          y1="85.214370079"
           x2="175.393700787"
-          y2="99.3875984257"/>
+          y2="99.387598426"/>
       <text
           id="34BA3632"
           style="stroke:none"
@@ -614,7 +614,7 @@
           font-size="8"
           font-weight="normal"
           font-style="normal">
-         <tspan x="176.8503937" y="83.5844488187">1</tspan>
+         <tspan x="176.8503937" y="83.584448819">1</tspan>
       </text>
       <text
           id="E8D50E32"
@@ -632,15 +632,53 @@
           font-size="10"
           font-weight="normal"
           font-style="normal">
-         <tspan x="181.507289616" y="18.2616141732">4-bit counter with 250 ms time base</tspan>
+         <tspan x="181.507289616" y="18.261614173">4-bit counter with 250 ms time base</tspan>
       </text>
       <path
           style="fill:none;stroke-width:0.25"
           id="A8FF5942"
-          d="M47.8346456693,28.5214566929 L47.8346456693,290.726181102 L462.401574803,290.726181102"/>
+          d="M47.8346456693,28.521456693 L47.8346456693,290.726181103 L462.401574803,290.726181103"/>
       <path
           style="fill:none;stroke-width:0.25"
           id="FC455A42"
-          d="M462.401574803,290.726181102 L462.401574803,0.175 L47.8346456693,0.175 L47.8346456693,32.0647637795"/>
+          d="M462.401574803,290.726181103 L462.401574803,0.175 L47.8346456693,0.175 L47.8346456693,32.06476378"/>
+      <path
+          style="fill:none"
+          id="E4155E52"
+          d="M373.818897638,120.647440945 L515.551181102,120.647440945"/>
+      <text
+          id="6F6C3462"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="475.195127953" y="119.017519685">AN(7:0)</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="07500562"
+          x1="451.771653544"
+          y1="113.560826772"
+          x2="444.68503937"
+          y2="127.734055119"/>
+      <text
+          id="27500562"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="446.141732284" y="111.930905512">8</tspan>
+      </text>
+      <text
+          id="BD61A562"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="389.269959938" y="117.017519685">b&quot;1111_1110&quot;</tspan>
+      </text>
    </g>
 </svg>
