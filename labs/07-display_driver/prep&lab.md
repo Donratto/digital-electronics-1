@@ -40,7 +40,7 @@ Due to the physiological properties of human vision, it is necessary that the ti
 
   ![positions of cathods](./images/n4t.png)
 
-  ![Timing of seven-segment display](./images/wavedrom02.svg)
+  ![Timing of seven-segment display](./images/wavedrom.svg)
 
   > The figure above was created in [WaveDrom](https://wavedrom.com/) digital timing diagram online tool. The figure source code is as follows:
   >
@@ -55,22 +55,23 @@ Due to the physiological properties of human vision, it is necessary that the ti
       {name: 'Common anode: AN(0)', wave: 'xx1..01..01.'},
     ],
      
-    ['Seven-segment data',
-      {name: '4-digit value to display', wave: 'xx4444666677', data: ['3','1','4','2','3','1','4','2','3','1']},
-    {name: 'Cathod A: CA', wave: 'xx01.0.1.0.1'},
-    {name: 'Cathod B: CB', wave: 'xx0.........'},
-    {name: 'Cathod C: CC', wave: 'xx0..10..10.'},
-    {name: 'Cathod D: CD', wave: 'xx01.0.1.0.1'},
-    {name: 'Cathod E: CE', wave: 'xx1..01..01.'},
-    {name: 'Cathod F: CF', wave: 'xx1.01..01..'},
-    {name: 'Cathod G: CG', wave: 'xx010..10..1'},
-    ],
+    
+    {name: '4-digit value to display', wave: 'xx4444666677', data: ['3','1','4','2','3','1','4','2','3','1']},
+      ['Seven-segment data',
+        {name: 'Cathod A: CA', wave: 'xx01.0.1.0.1'},
+        {name: 'Cathod B: CB', wave: 'xx0.........'},
+        {name: 'Cathod C: CC', wave: 'xx0..10..10.'},
+        {name: 'Cathod D: CD', wave: 'xx01.0.1.0.1'},
+        {name: 'Cathod E: CE', wave: 'xx1..01..01.'},
+        {name: 'Cathod F: CF', wave: 'xx1.01..01..'},
+        {name: 'Cathod G: CG', wave: 'xx010..10..1'},
+      ],
     {name: 'Decimal point: DP', wave: 'xx01..01..01'},
-  ],
+  ],  
   head:
-  {
-    text: '  4ms	4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
-  },
+    {
+      text: '  4ms	4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
+    },
 }
   ```
 
