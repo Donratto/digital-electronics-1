@@ -63,6 +63,7 @@ In this laboratory exercise you will implement a finite state machine (FSM) in V
 | JA11: GND	| JB11: GND | JC11: GND | JD11: GND	| JXADC11: GND          |
 | JA12: VCC	| JB12: VCC | JC12: VCC | JD12: VCC	| JXADC12: VCC          |
 
+VCC => 3,3V
 
 ![my fig](./images/Pmod_ports.png)
 
