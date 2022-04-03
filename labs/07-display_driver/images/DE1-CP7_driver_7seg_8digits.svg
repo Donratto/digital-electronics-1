@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="560.392519686"
+    height="375.940551181"
+    viewBox="0, 0, 560.392519686, 375.940551181"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_3AB0192F"/>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <text
+          id="2EF31BF8"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="5.459728331075" y="63.8679133858">CLK100MHZ</tspan>
+      </text>
+      <text
+          id="5A10DBF8"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="13.5039081724" y="49.6946850394">BTNC</tspan>
+      </text>
+      <polyline
+          style="fill:none;stroke-width:0.5"
+          id="C7AE2881"
+          points="63.7795275591,56.8679133858 70.8661417323,63.9545275591 63.7795275591,71.0411417323"/>
+      <text
+          id="D7AE2881"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="74.3890563484" y="37.5214566929">g_MAX = 400 000</tspan>
+      </text>
+      <text
+          id="F7AE2881"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="75.8661417323" y="64.8679133858">clk</tspan>
+      </text>
+      <text
+          id="08AE2881"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="68.7795275591" y="50.6946850394">rst</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="D7B26B81"
+          x="63.7795275591"
+          y="28.5214566929"
+          width="85.0393700787"
+          height="49.6062992129"/>
+      <text
+          id="78248A91"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="86.0648375985" y="24.8915354331">clock_enable</tspan>
+      </text>
+      <text
+          id="F7D52C91"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="126.770897636" y="64.8679133858">ce_o</tspan>
+      </text>
+      <text
+          id="45717EA1"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="199.255840151" y="24.8915354331">cnt_up_down</tspan>
+      </text>
+      <polyline
+          style="fill:none;stroke-width:0.5"
+          id="E7C1FFA1"
+          points="177.165354331,92.300984252 184.251968504,99.3875984252 177.165354331,106.474212598"/>
+      <text
+          id="08C1FFA1"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="185.34910187" y="37.5214566929">g_CNT_WIDTH = 3</tspan>
+      </text>
+      <text
+          id="18C1FFA1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="189.251968504" y="100.300984252">clk</tspan>
+      </text>
+      <text
+          id="28C1FFA1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="182.165354331" y="86.1277559055">rst</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="38C1FFA1"
+          x="177.165354331"
+          y="28.5214566929"
+          width="85.0393700787"
+          height="92.1259842523"/>
+      <text
+          id="48C1FFA1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="237.500724408" y="64.8679133858">cnt_o</tspan>
+      </text>
+      <text
+          id="587583B1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="182.165354331" y="64.8679133858">en_i</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="F253BBB1"
+          x="418.11023622"
+          y="28.5214566929"
+          width="63.7795275585"
+          height="28.3464566929"/>
+      <text
+          id="0353BBB1"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="435.017333984" y="24.8915354331">hex_7seg</tspan>
+      </text>
+      <text
+          id="1353BBB1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="455.401763778" y="43.6080708661">seg_o</tspan>
+      </text>
+      <text
+          id="2F41BDB1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="423.11023622" y="43.6080708661">hex_i</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="8CD9A0D1"
+          d="M63.7795275591,63.9545275591 L52.4409448819,63.9545275591 L52.4409448819,99.3875984256"/>
+      <path
+          style="fill:none"
+          id="C0D592D1"
+          d="M53.1496062992,99.3875984252 L53.1496062992,99.3875984252 L177.165354331,99.3875984252"/>
+      <path
+          style="fill:none"
+          id="E12B33D1"
+          d="M63.779527559,63.9545275591 L7.086614173228,63.9545275591"/>
+      <path
+          style="fill:none"
+          id="1C3689D1"
+          d="M7.086614173228,49.7812992126 L58.1102362205,49.7812992126 L58.1102362205,85.2143700787 L177.165354331,85.2143700787"/>
+      <path
+          style="fill:none"
+          id="3E8224E1"
+          d="M148.818897638,63.9545275591 L177.165354331,63.9545275591 L177.165354331,63.9545275591 L148.818897638,63.9545275591"/>
+      <path
+          style="fill:none"
+          id="C2AA54F1"
+          d="M481.88976378,42.6946850389 L503.149606299,42.6946850389 L503.149606299,42.6946850394"/>
+      <path
+          style="fill:none"
+          id="304494F1"
+          d="M503.149606299,42.6946850394 L559.842519684,42.6946850394"/>
+      <text
+          id="EBACE8F1"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="522.80338029" y="41.0647637795">CA – CG</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="3F342102"
+          x1="496.062992127"
+          y1="35.6080708661"
+          x2="488.976377953"
+          y2="49.7812992131"/>
+      <text
+          id="C8D6F102"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="488.661417323" y="41.0647637795">7</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="9089F602"
+          x1="283.46456693"
+          y1="56.8679133858"
+          x2="276.377952756"
+          y2="71.0411417328"/>
+      <text
+          id="B089F602"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="275.039170153" y="62.3246062992">3</tspan>
+      </text>
+      <text
+          id="064D6902"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="270.585322343" y="53.4663385827">s_cnt</tspan>
+      </text>
+      <text
+          id="46309B02"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="154.542907234" y="53.4663385827">s_en</tspan>
+      </text>
+      <text
+          id="C5331E12"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="182.165354331" y="114.474212598">cnt_up_i</tspan>
+      </text>
+      <circle
+          id="66D24322"
+          cx="58.1102362205"
+          cy="49.7812992126"
+          r="1.771653543307"/>
+      <circle
+          id="73296522"
+          cx="52.4409448819"
+          cy="63.9545275591"
+          r="1.771653543307"/>
+      <line
+          style="fill:none"
+          id="14BA3632"
+          x1="166.535433071"
+          y1="56.8679133858"
+          x2="159.448818898"
+          y2="71.0411417323"/>
+      <text
+          id="34BA3632"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="158.110036294" y="62.3246062992">1</tspan>
+      </text>
+      <text
+          id="44C61142"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="240.666715367" y="11.175">driver_7seg_8digits</tspan>
+      </text>
+      <path
+          style="fill:none;stroke-width:0.25"
+          id="A8FF5942"
+          d="M49.6062992126,21.4348425197 L49.6062992126,375.765551181 L517.322834646,375.765551181"/>
+      <path
+          style="fill:none;stroke-width:0.25"
+          id="FC455A42"
+          d="M517.322834646,375.765551181 L517.322834646,0.175 L49.6062992126,0.175 L49.6062992126,24.9781496066"/>
+      <path
+          style="fill:none"
+          id="CE213A0E"
+          d="M177.165354331,113.560826772 L177.165354331,113.560826772 L162.992125984,113.560826772 L162.992125984,120.647440945"/>
+      <g
+          id="3087882E">
+         <polyline
+             style="fill:none"
+             id="EF77882E"
+             points="155.905511811,123.777793473 155.905511811,123.777793473 170.063520276,123.777793473 170.063520276,123.777793473"/>
+         <polyline
+             style="fill:none"
+             id="0087882E"
+             points="168.293769218,125.969040243 157.675262869,125.969040243"/>
+         <polyline
+             style="fill:none"
+             id="1087882E"
+             points="166.52401816,128.160287013 159.445013927,128.160287013"/>
+         <path
+             style="fill:none"
+             id="2087882E"
+             d="M162.984516043,123.714143114 L162.984516043,120.647440945"/>
+      </g>
+      <text
+          id="BA29A81E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="146.732283465" y="121.560826772">&apos;0&apos;</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="8709354E"
+          d="M35.4330708661,49.7812992126 L63.7795275591,49.7812992126"/>
+      <rect
+          style="fill:none"
+          id="A0AEA77E"
+          x="297.637795276"
+          y="28.5214566929"
+          width="85.0393700782"
+          height="340.157480315"/>
+      <text
+          id="6294F87E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="7"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="316.621347502" y="24.8915354331">p_mux process</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="F5887D7E"
+          d="M7.086614173228,134.820669291 L301.181102362,134.820669291"/>
+      <path
+          style="fill:none"
+          id="5D608E7E"
+          d="M262.204724409,63.9545275591 L297.637795276,63.9545275591"/>
+      <text
+          id="8DDAE18E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="133.734055118">data0_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="3A5E458E"
+          cx="301.181102362"
+          cy="134.820669291"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="6733519E"
+          d="M7.086614173228,141.907283465 L301.181102362,141.907283465"/>
+      <text
+          id="8733519E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="140.820669291">data1_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="9733519E"
+          cx="301.181102362"
+          cy="141.907283465"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="855E719E"
+          d="M7.086614173228,148.993897638 L301.181102362,148.993897638"/>
+      <text
+          id="A55E719E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="147.907283465">data2_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="B55E719E"
+          cx="301.181102363"
+          cy="148.993897637"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="F5D7919E"
+          d="M7.086614173228,156.080511811 L301.181102362,156.080511811"/>
+      <text
+          id="16D7919E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="154.993897638">data3_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="26D7919E"
+          cx="301.181102363"
+          cy="156.080511811"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="15C9919E"
+          d="M7.086614173228,163.167125985 L301.181102362,163.167125985"/>
+      <text
+          id="25C9919E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="162.080511812">data4_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="35C9919E"
+          cx="301.181102363"
+          cy="163.167125984"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="A00C919E"
+          d="M7.086614173228,170.253740158 L301.181102362,170.253740158"/>
+      <text
+          id="B00C919E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="169.167125985">data5_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="C00C919E"
+          cx="301.181102363"
+          cy="170.253740157"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="E2FD919E"
+          d="M7.086614173228,177.340354331 L301.181102362,177.340354331"/>
+      <text
+          id="F2FD919E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="176.253740158">data6_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="03FD919E"
+          cx="301.181102363"
+          cy="177.34035433"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="8120A19E"
+          d="M7.086614173228,184.426968504 L301.181102362,184.426968504"/>
+      <text
+          id="9120A19E"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="18.6726285868" y="183.340354331">data7_i</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="A120A19E"
+          cx="301.181102363"
+          cy="184.426968504"
+          r="1.771653543307"/>
+      <circle
+          style="stroke-width:0.5"
+          id="A66B989E"
+          cx="355.748031496"
+          cy="159.623818898"
+          r="1.771653543307"/>
+      <polyline
+          style="fill:none"
+          id="8447A99E"
+          points="355.748031496,159.623818898 301.181102362,134.820669291"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="636F0B9E"
+          cx="318.897637795"
+          cy="198.60019685"
+          r="1.771653543307"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="836F0B9E"
+          cx="318.897637795"
+          cy="205.686811024"
+          r="1.771653543307"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="A36F0B9E"
+          cx="318.897637795"
+          cy="212.773425197"
+          r="1.771653543307"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="C36F0B9E"
+          cx="318.897637795"
+          cy="219.86003937"
+          r="1.771653543307"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="E36F0B9E"
+          cx="318.897637795"
+          cy="226.946653543"
+          r="1.771653543307"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="046F0B9E"
+          cx="318.897637795"
+          cy="234.033267717"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="336F0B9E"
+          d="M304.724409449,198.60019685 L317.125984252,198.60019685"/>
+      <path
+          style="fill:none"
+          id="736F0B9E"
+          d="M304.724409449,205.686811024 L317.125984252,205.686811024"/>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="246F0B9E"
+          cx="318.897637795"
+          cy="241.11988189"
+          r="1.771653543307"/>
+      <path
+          style="fill:none"
+          id="936F0B9E"
+          d="M304.724409449,212.773425197 L317.125984252,212.773425197"/>
+      <path
+          style="fill:none"
+          id="B36F0B9E"
+          d="M304.724409449,219.86003937 L317.125984252,219.86003937"/>
+      <path
+          style="fill:none"
+          id="D36F0B9E"
+          d="M304.724409449,226.946653543 L317.125984252,226.946653543"/>
+      <path
+          style="fill:none"
+          id="F36F0B9E"
+          d="M304.724409449,234.033267717 L317.125984252,234.033267717"/>
+      <path
+          style="fill:none"
+          id="146F0B9E"
+          d="M304.724409449,241.11988189 L317.125984252,241.11988189"/>
+      <path
+          style="fill:none"
+          id="346F0B9E"
+          d="M304.724409449,248.206496063 L317.125984252,248.206496063"/>
+      <circle
+          style="stroke-width:0.5"
+          id="546F0B9E"
+          cx="355.748031496"
+          cy="223.403346457"
+          r="1.771653543307"/>
+      <polyline
+          style="fill:none"
+          id="646F0B9E"
+          points="355.748031496,223.403346457 318.897637795,198.60019685"/>
+      <path
+          style="fill:none"
+          id="C9BD96AE"
+          d="M304.724409449,198.60019685 L304.724409449,248.206496063"/>
+      <path
+          style="fill:none"
+          id="A2F027AE"
+          d="M304.724409449,223.403346457 L7.086614173228,223.403346457"/>
+      <text
+          id="6B9177AE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="22.843038743" y="222.316732283">dp_i</tspan>
+      </text>
+      <g
+          id="8EE2EDAE">
+         <line
+             style="fill:none"
+             id="CF03A9AE"
+             x1="123.661417323"
+             y1="130.391535433"
+             x2="120.826771654"
+             y2="138.895472441"/>
+         <text
+             id="1E31FAAE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="117.677165354" y="134.076574803">4</tspan>
+         </text>
+      </g>
+      <g
+          id="0FFCEDAE">
+         <line
+             style="fill:none"
+             id="DEFCEDAE"
+             x1="130.039370079"
+             y1="137.478149606"
+             x2="127.204724409"
+             y2="145.982086614"/>
+         <text
+             id="FEFCEDAE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="124.05511811" y="141.163188976">4</tspan>
+         </text>
+      </g>
+      <g
+          id="0AC59EAE">
+         <line
+             style="fill:none"
+             id="D9C59EAE"
+             x1="136.417322835"
+             y1="144.56476378"
+             x2="133.582677165"
+             y2="153.068700788"/>
+         <text
+             id="F9C59EAE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="130.433070866" y="148.24980315">4</tspan>
+         </text>
+      </g>
+      <g
+          id="555BAFAE">
+         <line
+             style="fill:none"
+             id="155BAFAE"
+             x1="142.795275591"
+             y1="151.651377953"
+             x2="139.960629921"
+             y2="160.155314961"/>
+         <text
+             id="355BAFAE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="136.811023622" y="155.336417323">4</tspan>
+         </text>
+      </g>
+      <g
+          id="D93B50BE">
+         <line
+             style="fill:none"
+             id="A93B50BE"
+             x1="149.173228346"
+             y1="158.737992126"
+             x2="146.338582677"
+             y2="167.241929134"/>
+         <text
+             id="C93B50BE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="143.188976378" y="162.423031496">4</tspan>
+         </text>
+      </g>
+      <g
+          id="0A3B50BE">
+         <line
+             style="fill:none"
+             id="E93B50BE"
+             x1="155.551181102"
+             y1="165.824606299"
+             x2="152.716535433"
+             y2="174.328543307"/>
+         <text
+             id="F93B50BE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="149.566929134" y="169.509645669">4</tspan>
+         </text>
+      </g>
+      <g
+          id="3A3B50BE">
+         <line
+             style="fill:none"
+             id="1A3B50BE"
+             x1="161.929133858"
+             y1="172.911220473"
+             x2="159.094488189"
+             y2="181.415157481"/>
+         <text
+             id="2A3B50BE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="155.94488189" y="176.596259843">4</tspan>
+         </text>
+      </g>
+      <g
+          id="6A3B50BE">
+         <line
+             style="fill:none"
+             id="4A3B50BE"
+             x1="168.307086614"
+             y1="179.997834646"
+             x2="165.472440945"
+             y2="188.501771654"/>
+         <text
+             id="5A3B50BE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="162.322834646" y="183.682874016">4</tspan>
+         </text>
+      </g>
+      <text
+          id="F1E158BE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-9.738903735513)">
+         <tspan x="298.376791646" y="268.379724409">&quot;1111_1110&quot;</tspan>
+      </text>
+      <circle
+          style="stroke-width:0.5"
+          id="F41F30CE"
+          cx="355.748031496"
+          cy="291.080511811"
+          r="1.771653543307"/>
+      <polyline
+          style="fill:none"
+          id="151F30CE"
+          points="355.748031496,291.080511811 333.333759412,266.762918933"/>
+      <text
+          id="F94990CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-10.0019417938)">
+         <tspan x="298.376791646" y="275.466338583">&quot;1111_1101&quot;</tspan>
+      </text>
+      <text
+          id="3545E1CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="298.376791646" y="282.552952756">&quot;1111_1011&quot;</tspan>
+      </text>
+      <text
+          id="5545E1CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-10.5280179104)">
+         <tspan x="298.376791646" y="289.639566929">&quot;1111_0111&quot;</tspan>
+      </text>
+      <text
+          id="945CF2CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-10.7910559687)">
+         <tspan x="298.376791646" y="296.726181102">&quot;1110_1111&quot;</tspan>
+      </text>
+      <text
+          id="B45CF2CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-11.054094027)">
+         <tspan x="298.376791646" y="303.812795276">&quot;1101_1111&quot;</tspan>
+      </text>
+      <text
+          id="C45CF2CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="298.376791646" y="310.899409449">&quot;1011_1111&quot;</tspan>
+      </text>
+      <circle
+          style="fill:#FFFFFF;stroke-width:0.5"
+          id="446F0B9E"
+          cx="318.897637795"
+          cy="248.206496063"
+          r="1.771653543307"/>
+      <text
+          id="D45CF2CE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal"
+          transform="matrix(1,0,0,1.03711759267,0,-11.5801701435)">
+         <tspan x="298.376791646" y="317.986023622">&quot;0111_1111&quot;</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="3CB871DE"
+          d="M355.748031496,63.9545275591 L355.748031496,291.080511811"/>
+      <path
+          style="fill:none"
+          id="67EEF4DE"
+          d="M297.992125984,63.9545275591 L355.748031496,63.9545275591"/>
+      <path
+          style="fill:none"
+          id="C25CB7DE"
+          d="M356.102362205,159.623818898 L368.503937008,159.623818898 L368.503937008,42.6946850394"/>
+      <path
+          style="fill:none"
+          id="7AAC18DE"
+          d="M418.11023622,42.6946850394 L368.503937008,42.6946850394"/>
+      <line
+          style="fill:none"
+          id="D630C8DE"
+          x1="403.937007875"
+          y1="35.6080708661"
+          x2="396.850393701"
+          y2="49.7812992131"/>
+      <text
+          id="0730C8DE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="395.511611097" y="41.0647637795">4</tspan>
+      </text>
+      <text
+          id="1730C8DE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="389.944482037" y="32.206496063">s_hex</tspan>
+      </text>
+      <g
+          id="798382EE">
+         <line
+             style="fill:none"
+             id="498382EE"
+             x1="124.370078741"
+             y1="218.797047243"
+             x2="121.535433071"
+             y2="227.300984251"/>
+         <text
+             id="698382EE"
+             style="stroke:none"
+             font-family="Arial Unicode MS"
+             font-size="8"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="118.385826772" y="222.482086614">8</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none"
+          id="AEAD84EE"
+          d="M356.102362205,223.403346457 L559.842519685,223.403346457"/>
+      <path
+          style="fill:none"
+          id="E67845EE"
+          d="M356.102362205,290.726181102 L559.842519686,290.726181102"/>
+      <line
+          style="fill:none"
+          id="5CFA97EE"
+          x1="506.692913387"
+          y1="216.316732283"
+          x2="499.606299213"
+          y2="230.48996063"/>
+      <text
+          id="6CFA97EE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="498.267516609" y="221.773425197">1</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="1B9C28EE"
+          x1="506.692913387"
+          y1="283.639566929"
+          x2="499.606299213"
+          y2="297.812795276"/>
+      <text
+          id="3B9C28EE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="498.267516609" y="289.096259842">8</tspan>
+      </text>
+      <text
+          id="757BDDEE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="533.02603654" y="221.773425197">DP</tspan>
+      </text>
+      <text
+          id="B6C45EEE"
+          style="stroke:none"
+          font-family="Arial Unicode MS"
+          font-size="8"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="529.020177165" y="289.096259843">dig_o</tspan>
+      </text>
+      <polyline
+          style="fill:none;stroke-width:0.5"
+          id="F6AB10FE"
+          points="297.637795276,347.419094488 304.724409449,354.505708661 297.637795276,361.592322835"/>
+      <text
+          id="17AB10FE"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="309.724409449" y="355.419094488">clk</tspan>
+      </text>
+      <text
+          id="27AB10FE"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="302.637795276" y="337.702559055">rst</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="37AB10FE"
+          d="M297.637795276,354.505708661 L52.4409448819,354.505708661 L52.4409448819,99.3875984252"/>
+      <path
+          style="fill:none"
+          id="D5F8D1FE"
+          d="M297.637795276,336.789173228 L58.1102362205,336.789173228 L58.1102362205,85.2143700787"/>
+      <circle
+          id="E22FD4FE"
+          cx="52.4409448819"
+          cy="99.3875984252"
+          r="1.771653543307"/>
+      <circle
+          id="AC87C6FE"
+          cx="58.1102362205"
+          cy="85.2143700787"
+          r="1.771653543307"/>
+      <text
+          id="4C129C1F"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="387.503622047" y="220.773425197">dp_o</tspan>
+      </text>
+      <text
+          id="73677D1F"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="8"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="385.583622047" y="288.096259843">dig_o</tspan>
+      </text>
+   </g>
+</svg>
