@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="198.42519685"
+    height="213.598425197"
+    viewBox="0, 0, 198.42519685, 213.598425197"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_0EDE7F81">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="CEF1DFBC_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="CEF1DFBC_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <rect
+          style="fill:none"
+          id="96813CBC"
+          x="77.952755906"
+          y="0.5"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <rect
+          style="fill:none"
+          id="9342CCBC"
+          x="134.645669291"
+          y="50.1062992126"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <rect
+          style="fill:none"
+          id="0DB7FCBC"
+          x="134.645669291"
+          y="120.972440945"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <rect
+          style="fill:none"
+          id="8A568DBC"
+          x="77.952755906"
+          y="170.578740157"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <rect
+          style="fill:none"
+          id="AA568DBC"
+          x="21.25984252"
+          y="120.972440945"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <rect
+          style="fill:none"
+          id="BA568DBC"
+          x="21.25984252"
+          y="50.1062992126"
+          width="42.5196850394"
+          height="42.5196850394"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="CEF1DFBC"
+          d="M120.472440945,21.7598425197 L155.905511811,21.7598425197 L155.905511811,50.1062992126"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="4A9650CC"
+          d="M155.905511811,92.6259842523 L155.905511811,120.972440945"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="3F6B80CC"
+          d="M155.905511811,163.492125984 L155.905511811,191.838582677 L120.472440945,191.838582677"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="C68DC0CC"
+          d="M77.952755906,191.838582677 L42.519685039,191.838582677 L42.519685039,163.492125984"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="AF0E11CC"
+          d="M42.519685039,120.972440945 L42.519685039,92.6259842523"/>
+      <path
+          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          id="515351CC"
+          d="M42.519685039,50.1062992126 L42.519685039,21.7598425197 L77.952755906,21.7598425197"/>
+      <text
+          id="CEFF5061"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="89.9305984252" y="9.334645669277">STOP1</tspan>
+      </text>
+      <text
+          id="FDFE3361"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="23.5536850394" y="58.9409448819">SOUTH_WAIT</tspan>
+      </text>
+      <text
+          id="52008361"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="26.0676850394" y="129.807086614">SOUTH_GO</tspan>
+      </text>
+      <text
+          id="F3EFA361"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="89.9305984252" y="179.413385827">STOP2</tspan>
+      </text>
+      <text
+          id="213EC361"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="139.054511811" y="129.807086614">WEST_WAIT</tspan>
+      </text>
+      <text
+          id="CFF3F361"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="141.568511811" y="58.9409448819">WEST_GO</tspan>
+      </text>
+      <text
+          id="42960D61"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="140.258011811" y="73.531496063">south_o = red</tspan>
+      </text>
+      <text
+          id="CF58E371"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="138.545511811" y="84.8700787403">west_o = green</tspan>
+      </text>
+      <text
+          id="F12C8871"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="140.258011811" y="143.688976378">south_o = red</tspan>
+      </text>
+      <text
+          id="122C8871"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="137.945511811" y="154.318897637">west_o = yellow</tspan>
+      </text>
+      <text
+          id="9C8AC871"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="83.5650984257" y="193.29527559">south_o = red</tspan>
+      </text>
+      <text
+          id="BC8AC871"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="84.6325984257" y="203.92519685">west_o = red</tspan>
+      </text>
+      <text
+          id="A61B1971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="24.0921850393" y="140.145669291">south_o = green</tspan>
+      </text>
+      <text
+          id="C61B1971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="27.9396850397" y="154.318897637">west_o = red</tspan>
+      </text>
+      <text
+          id="962A3971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="23.4921850393" y="72.8228346457">south_o = yellow</tspan>
+      </text>
+      <text
+          id="C62A3971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="27.9396850397" y="83.4527559055">west_o = red</tspan>
+      </text>
+      <text
+          id="5B485971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="83.5650984257" y="23.2165354331">south_o = red</tspan>
+      </text>
+      <text
+          id="7B485971"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="84.6325984257" y="33.8464566929">west_o = red</tspan>
+      </text>
+      <text
+          id="94B73D71"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="163.329354331" y="27.7598425197">delay = 1s</tspan>
+      </text>
+      <text
+          id="410D4F71"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="163.329354331" y="105.712598425">delay = 4s</tspan>
+      </text>
+      <text
+          id="589E5081"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="163.329354331" y="187.208661417">delay = 2s</tspan>
+      </text>
+      <text
+          id="7359C181"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="7.4238425197" y="180.122047244">delay = 1s</tspan>
+      </text>
+      <text
+          id="4D2E8281"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="7.4238425197" y="105.712598425">delay = 4s</tspan>
+      </text>
+      <text
+          id="74294381"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="6"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="7.4238425197" y="27.7598425197">delay = 2s</tspan>
+      </text>
+   </g>
+</svg>
