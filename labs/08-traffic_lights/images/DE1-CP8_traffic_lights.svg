@@ -9,24 +9,36 @@
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
-    width="198.42519685"
-    height="213.598425197"
-    viewBox="0, 0, 198.42519685, 213.598425197"
+    width="326.984251968"
+    height="245.488188976"
+    viewBox="0, 0, 326.984251968, 245.488188976"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_0EDE7F81">
+       id="defs_56522E12">
       <marker
           orient="auto"
           refX="0.0"
           refY="0.0"
-          id="CEF1DFBC_end_arrow"
+          id="4A9650CC_end_arrow"
           style="overflow:visible"
           markerUnits="userSpaceOnUse">
          <path
-             id="CEF1DFBC_end_arrow_path"
+             id="4A9650CC_end_arrow_path"
              style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
              d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="EF3DDFE1_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="EF3DDFE1_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
       </marker>
    </defs>
    <metadata
@@ -46,122 +58,116 @@
       <rect
           style="fill:none"
           id="96813CBC"
-          x="77.952755906"
-          y="0.5"
+          x="142.232283465"
+          y="16.4448818898"
           width="42.5196850394"
           height="42.5196850394"/>
       <rect
           style="fill:none"
           id="9342CCBC"
-          x="134.645669291"
-          y="50.1062992126"
+          x="198.92519685"
+          y="66.0511811024"
           width="42.5196850394"
           height="42.5196850394"/>
       <rect
           style="fill:none"
           id="0DB7FCBC"
-          x="134.645669291"
-          y="120.972440945"
+          x="198.92519685"
+          y="136.917322835"
           width="42.5196850394"
           height="42.5196850394"/>
       <rect
           style="fill:none"
           id="8A568DBC"
-          x="77.952755906"
-          y="170.578740157"
+          x="142.232283465"
+          y="186.523622047"
           width="42.5196850394"
           height="42.5196850394"/>
       <rect
           style="fill:none"
           id="AA568DBC"
-          x="21.25984252"
-          y="120.972440945"
+          x="85.539370079"
+          y="136.917322835"
           width="42.5196850394"
           height="42.5196850394"/>
       <rect
           style="fill:none"
           id="BA568DBC"
-          x="21.25984252"
-          y="50.1062992126"
+          x="85.539370079"
+          y="66.0511811024"
           width="42.5196850394"
           height="42.5196850394"/>
       <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
-          id="CEF1DFBC"
-          d="M120.472440945,21.7598425197 L155.905511811,21.7598425197 L155.905511811,50.1062992126"/>
-      <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
           id="4A9650CC"
-          d="M155.905511811,92.6259842523 L155.905511811,120.972440945"/>
+          d="M207.783464567,108.570866142 L207.783464567,136.917322835"/>
       <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
-          id="3F6B80CC"
-          d="M155.905511811,163.492125984 L155.905511811,191.838582677 L120.472440945,191.838582677"/>
-      <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
-          id="C68DC0CC"
-          d="M77.952755906,191.838582677 L42.519685039,191.838582677 L42.519685039,163.492125984"/>
-      <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
           id="AF0E11CC"
-          d="M42.519685039,120.972440945 L42.519685039,92.6259842523"/>
+          d="M119.200787402,136.917322835 L119.200787402,108.570866142"/>
       <path
-          style="fill:none;marker-end:url(#CEF1DFBC_end_arrow)"
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
           id="515351CC"
-          d="M42.519685039,50.1062992126 L42.519685039,21.7598425197 L77.952755906,21.7598425197"/>
+          d="M128.059055118,74.9094488189 L149.318897637,74.9094488189 L149.318897638,58.9645669291"/>
       <text
           id="CEFF5061"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="89.9305984252" y="9.334645669277">STOP1</tspan>
+         <tspan x="155.422125984" y="23.2795275591">s_state = </tspan>
+         <tspan x="154.210125984" y="30.2795275591" font-size="6">STOP1</tspan>
       </text>
       <text
           id="FDFE3361"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="23.5536850394" y="58.9409448819">SOUTH_WAIT</tspan>
+         <tspan x="98.7292125989" y="72.8858267717">s_state = </tspan>
+         <tspan x="87.8332125989" y="79.8858267717" font-size="6">SOUTH_WAIT</tspan>
       </text>
       <text
           id="52008361"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="26.0676850394" y="129.807086614">SOUTH_GO</tspan>
+         <tspan x="98.7292125989" y="143.751968504">s_state = </tspan>
+         <tspan x="90.3472125989" y="150.751968504" font-size="6">SOUTH_GO</tspan>
       </text>
       <text
           id="F3EFA361"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="89.9305984252" y="179.413385827">STOP2</tspan>
+         <tspan x="155.422125984" y="193.358267716">s_state = </tspan>
+         <tspan x="154.210125984" y="200.358267716" font-size="6">STOP2</tspan>
       </text>
       <text
           id="213EC361"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="139.054511811" y="129.807086614">WEST_WAIT</tspan>
+         <tspan x="212.11503937" y="143.751968504">s_state = </tspan>
+         <tspan x="203.33403937" y="150.751968504" font-size="6">WEST_WAIT</tspan>
       </text>
       <text
           id="CFF3F361"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="4"
           font-weight="normal"
           font-style="normal">
-         <tspan x="141.568511811" y="58.9409448819">WEST_GO</tspan>
+         <tspan x="212.11503937" y="72.8858267717">s_state = </tspan>
+         <tspan x="205.84803937" y="79.8858267717" font-size="6">WEST_GO</tspan>
       </text>
       <text
           id="42960D61"
@@ -170,7 +176,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="140.258011811" y="73.531496063">south_o = red</tspan>
+         <tspan x="204.53753937" y="92.311023622">south_o = red</tspan>
       </text>
       <text
           id="CF58E371"
@@ -179,7 +185,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="138.545511811" y="84.8700787403">west_o = green</tspan>
+         <tspan x="202.82503937" y="102.940944882">west_o = green</tspan>
       </text>
       <text
           id="F12C8871"
@@ -188,7 +194,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="140.258011811" y="143.688976378">south_o = red</tspan>
+         <tspan x="204.53753937" y="163.177165354">south_o = red</tspan>
       </text>
       <text
           id="122C8871"
@@ -197,7 +203,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="137.945511811" y="154.318897637">west_o = yellow</tspan>
+         <tspan x="202.22503937" y="173.807086614">west_o = yellow</tspan>
       </text>
       <text
           id="9C8AC871"
@@ -206,7 +212,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="83.5650984257" y="193.29527559">south_o = red</tspan>
+         <tspan x="147.844625984" y="212.783464567">south_o = red</tspan>
       </text>
       <text
           id="BC8AC871"
@@ -215,7 +221,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="84.6325984257" y="203.92519685">west_o = red</tspan>
+         <tspan x="148.912125984" y="223.413385827">west_o = red</tspan>
       </text>
       <text
           id="A61B1971"
@@ -224,7 +230,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="24.0921850393" y="140.145669291">south_o = green</tspan>
+         <tspan x="88.3717125984" y="163.177165354">south_o = green</tspan>
       </text>
       <text
           id="C61B1971"
@@ -233,7 +239,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="27.9396850397" y="154.318897637">west_o = red</tspan>
+         <tspan x="92.2192125984" y="173.807086614">west_o = red</tspan>
       </text>
       <text
           id="962A3971"
@@ -242,7 +248,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="23.4921850393" y="72.8228346457">south_o = yellow</tspan>
+         <tspan x="87.7717125984" y="92.311023622">south_o = yellow</tspan>
       </text>
       <text
           id="C62A3971"
@@ -251,7 +257,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="27.9396850397" y="83.4527559055">west_o = red</tspan>
+         <tspan x="92.2192125984" y="102.940944882">west_o = red</tspan>
       </text>
       <text
           id="5B485971"
@@ -260,7 +266,7 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="83.5650984257" y="23.2165354331">south_o = red</tspan>
+         <tspan x="147.844625984" y="42.7047244094">south_o = red</tspan>
       </text>
       <text
           id="7B485971"
@@ -269,61 +275,326 @@
           font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="84.6325984257" y="33.8464566929">west_o = red</tspan>
+         <tspan x="148.912125984" y="53.3346456693">west_o = red</tspan>
       </text>
-      <text
-          id="94B73D71"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="6"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="163.329354331" y="27.7598425197">delay = 1s</tspan>
-      </text>
-      <text
-          id="410D4F71"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="6"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="163.329354331" y="105.712598425">delay = 4s</tspan>
-      </text>
-      <text
-          id="589E5081"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="6"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="163.329354331" y="187.208661417">delay = 2s</tspan>
-      </text>
-      <text
-          id="7359C181"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="6"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="7.4238425197" y="180.122047244">delay = 1s</tspan>
-      </text>
+      <g id="94B73D71_textGroup">
+         <path
+             style="fill:none"
+             id="94B73D71_textRect"
+             d="M168.807086614,0.5 L246.75984252,0.5 L246.75984252,11.1299212598 L168.807086614,11.1299212598 z"/>
+         <text
+             id="94B73D71"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="176.496464567" y="7">s_cnt &lt; c_DELAY_1SEC</tspan>
+         </text>
+      </g>
       <text
           id="4D2E8281"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="7.4238425197" y="105.712598425">delay = 4s</tspan>
+         <tspan x="124.501496065" y="124.200787402">delay = 4s</tspan>
       </text>
+      <path
+          style="fill:none"
+          id="B0CDD5A1"
+          d="M184.751968504,23.531496063 L207.783464567,23.531496063 L207.783464567,11.1299212598"/>
+      <g id="0FA191B1_textGroup">
+         <path
+             style="fill:none"
+             id="0FA191B1_textRect"
+             d="M80.2244094488,234.358267717 L158.177165354,234.358267717 L158.177165354,244.988188976 L80.2244094488,244.988188976 z"/>
+         <text
+             id="0FA191B1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="87.9137874016" y="240.858267717">s_cnt &lt; c_DELAY_1SEC</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none"
+          id="2FA191B1"
+          d="M142.232283465,221.956692913 L119.200787402,221.956692913 L119.200787402,234.358267717"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="3FA191B1"
+          d="M223.728346457,234.358267717 L207.783464567,234.358267717 L207.783464567,221.956692913 L184.751968504,221.956692913"/>
+      <g id="A853D6B1_textGroup">
+         <path
+             style="fill:none"
+             id="A853D6B1_textRect"
+             d="M248.531496063,161.720472441 L326.484251968,161.720472441 L326.484251968,171.641732283 L248.531496063,171.641732283 z"/>
+         <text
+             id="A853D6B1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="256.220874016" y="168.220472441">s_cnt &lt; c_DELAY_2SEC</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none"
+          id="F07F53C1"
+          d="M232.586614173,179.437007874 L232.586614173,191.838582677 L287.507874016,191.838582677 L287.507874016,172.350393701"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="1BF6F3C1"
+          d="M287.507874016,140.460629921 L287.507874016,124.515748031 L232.586614173,124.515748031 L232.586614173,136.917322835"/>
+      <g id="6355DDC1_textGroup">
+         <path
+             style="fill:none"
+             id="6355DDC1_textRect"
+             d="M168.807086614,234.358267717 L246.75984252,234.358267717 L246.75984252,244.988188976 L168.807086614,244.988188976 z"/>
+         <text
+             id="6355DDC1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="185.841464567" y="240.858267717">s_cnt = </tspan>
+            <tspan>s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="E3758FC1"
+          d="M158.177165354,239.673228346 L168.807086614,239.673228346"/>
+      <g id="28FDA3D1_textGroup">
+         <path
+             style="fill:none"
+             id="28FDA3D1_textRect"
+             d="M248.531496063,140.460629921 L326.484251968,140.460629921 L326.484251968,151.090551181 L248.531496063,151.090551181 z"/>
+         <text
+             id="28FDA3D1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="265.565874016" y="146.960629921">s_cnt = s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="86B9AED1"
+          d="M287.507874016,161.720472441 L287.507874016,151.090551181"/>
+      <g id="B65254E1_textGroup">
+         <path
+             style="fill:none"
+             id="B65254E1_textRect"
+             d="M248.531496063,90.8543307087 L326.484251968,90.8543307087 L326.484251968,100.775590551 L248.531496063,100.775590551 z"/>
+         <text
+             id="B65254E1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="256.220874016" y="97.3543307087">s_cnt &lt; c_DELAY_4SEC</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none"
+          id="D65254E1"
+          d="M232.586614173,108.570866142 L232.586614173,120.972440945 L287.507874016,120.972440945 L287.507874016,101.484251969"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="E65254E1"
+          d="M287.507874016,69.5944881892 L287.507874016,53.6496062992 L232.586614173,53.6496062992 L232.586614173,66.0511811032"/>
+      <g id="F65254E1_textGroup">
+         <path
+             style="fill:none"
+             id="F65254E1_textRect"
+             d="M248.531496063,69.594488189 L326.484251968,69.594488189 L326.484251968,80.2244094488 L248.531496063,80.2244094488 z"/>
+         <text
+             id="F65254E1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="265.565874016" y="76.094488189">s_cnt = s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="075254E1"
+          d="M287.507874016,90.8543307088 L287.507874016,80.2244094488"/>
       <text
-          id="74294381"
+          id="8E5206E1"
           style="stroke:none"
           font-family="Avenir"
-          font-size="6"
+          font-size="5"
           font-weight="normal"
           font-style="normal">
-         <tspan x="7.4238425197" y="27.7598425197">delay = 2s</tspan>
+         <tspan x="170.564488175" y="81.6811023622">delay = 1s</tspan>
       </text>
+      <text
+          id="D223E7E1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="179.422755896" y="124.200787402">delay = 4s</tspan>
+      </text>
+      <text
+          id="542F38E1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="170.564488201" y="166.720472441">delay = 2s</tspan>
+      </text>
+      <text
+          id="9F428DE1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="133.35976378" y="81.6811023622">delay = 2s</tspan>
+      </text>
+      <g id="B92D7EE1_textGroup">
+         <path
+             style="fill:none"
+             id="B92D7EE1_textRect"
+             d="M0.5,140.460629921 L78.4527559055,140.460629921 L78.4527559055,150.381889764 L0.5,150.381889764 z"/>
+         <text
+             id="B92D7EE1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="8.18937795275" y="146.960629921">s_cnt &lt; c_DELAY_4SEC</tspan>
+         </text>
+      </g>
+      <g id="D92D7EE1_textGroup">
+         <path
+             style="fill:none"
+             id="D92D7EE1_textRect"
+             d="M0.5,161.720472441 L78.4527559055,161.720472441 L78.4527559055,172.350393701 L0.5,172.350393701 z"/>
+         <text
+             id="D92D7EE1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="17.5343779527" y="168.220472441">s_cnt = s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-start:url(#EF3DDFE1_start_arrow)"
+          id="EF3DDFE1"
+          d="M94.3976377953,179.437007874 L94.3976377953,191.838582677 L39.4763779528,191.838582677 L39.4763779528,172.350393701"/>
+      <path
+          style="fill:none"
+          id="9C2801F1"
+          d="M94.3976377948,136.917322834 L94.3976377948,124.515748031 L39.4563779523,124.515748031 L39.4563779523,140.460629921"/>
+      <path
+          style="fill:none;marker-start:url(#EF3DDFE1_start_arrow)"
+          id="D6BD74F1"
+          d="M39.4763779528,161.720472441 L39.4763779528,151.090551181"/>
+      <g id="837496F1_textGroup">
+         <path
+             style="fill:none"
+             id="837496F1_textRect"
+             d="M0.5,69.594488189 L78.4527559055,69.594488189 L78.4527559055,79.5157480315 L0.5,79.5157480315 z"/>
+         <text
+             id="837496F1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="8.18937795275" y="76.094488189">s_cnt &lt; c_DELAY_2SEC</tspan>
+         </text>
+      </g>
+      <g id="937496F1_textGroup">
+         <path
+             style="fill:none"
+             id="937496F1_textRect"
+             d="M0.5,90.8543307087 L78.4527559055,90.8543307087 L78.4527559055,101.484251968 L0.5,101.484251968 z"/>
+         <text
+             id="937496F1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="17.5343779527" y="97.3543307087">s_cnt = s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-start:url(#EF3DDFE1_start_arrow)"
+          id="A37496F1"
+          d="M94.3976377948,108.570866142 L94.3976377948,120.972440945 L39.4763779528,120.972440945 L39.4763779528,101.484251969"/>
+      <path
+          style="fill:none"
+          id="C37496F1"
+          d="M94.4176377958,66.0511811022 L94.4176377958,53.6496062992 L39.4763779528,53.6496062992 L39.4763779528,69.5944881892"/>
+      <path
+          style="fill:none;marker-start:url(#EF3DDFE1_start_arrow)"
+          id="D37496F1"
+          d="M39.4763779528,90.8543307088 L39.4763779528,80.2244094488"/>
+      <g id="23E599F1_textGroup">
+         <path
+             style="fill:none"
+             id="23E599F1_textRect"
+             d="M80.2244094488,0.5 L158.177165354,0.5 L158.177165354,11.1299212598 L80.2244094488,11.1299212598 z"/>
+         <text
+             id="23E599F1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="6"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="97.2587874016" y="7">s_cnt = s_cnt +1</tspan>
+         </text>
+      </g>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="F4265DF1"
+          d="M168.807086614,5.814960629921 L158.177165354,5.814960629921"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="8513E002"
+          d="M177.665354331,58.9645669291 L177.665354331,74.9094488189 L198.92519685,74.9094488189"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="6220F302"
+          d="M198.92519685,170.578740157 L177.665354331,170.578740157 L177.665354331,186.523622047"/>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="E0665402"
+          d="M149.318897638,186.523622047 L149.318897638,170.578740157 L128.059055118,170.578740157"/>
+      <text
+          id="F5625602"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="5"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="133.359763792" y="166.720472441">delay = 1s</tspan>
+      </text>
+      <path
+          style="fill:none;marker-end:url(#4A9650CC_end_arrow)"
+          id="19FB2012"
+          d="M119.200787402,11.1299212598 L119.200787402,23.531496063 L142.232283465,23.531496063"/>
    </g>
 </svg>
